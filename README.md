@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.JS, MongoDB, MySQL, JavaScript, Laravel & Angular**
 
-- 💬 Ask me about **PHP, Bootstrap, HTML, MySQL (basic stuff)**
+- 💬 Ask me about **PHP, Bootstrap, HTML & basic MySQL**
 
 - 📫 How to reach me **martincosso99@hotmail.com**
 
