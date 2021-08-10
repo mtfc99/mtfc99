@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HeadShot 3D](https://github.com/mtfc99/headshot)
 
-- 🌱 I’m currently learning **Node.JS, MongoDB, MySQL, JavaScript, Laravel & Angular**
+- 🌱 I’m currently learning **MERN Stack, pure Javascript and, Laravel**
 
 - 💬 Ask me about **PHP, Bootstrap, HTML & basic MySQL**
 
